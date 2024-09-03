@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="colorPrimary">#0288D1</color> <!-- Ocean Blue -->
+    <color name="colorPrimaryVariant">#0277BD</color> <!-- Deeper Blue -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White for text on primary -->
+
+    <!-- Secondary colors -->
+    <color name="colorSecondary">#26A69A</color> <!-- Turquoise -->
+    <color name="colorSecondaryVariant">#00796B</color> <!-- Darker Turquoise -->
+    <color name="colorOnSecondary">#FFFFFF</color> <!-- White for text on secondary -->
+
+    <!-- Background colors -->
+    <color name="colorBackground">#E1F5FE</color> <!-- Light Blue for background -->
+    <color name="colorSurface">#FFFFFF</color> <!-- White for cards, dialogs, etc. -->
+    <color name="colorOnSurface">#212121</color> <!-- Dark Gray for text on surface -->
+
+    <!-- Error colors -->
+    <color name="colorError">#D32F2F</color> <!-- Red for error states -->
+    <color name="colorOnError">#FFFFFF</color> <!-- White text on error -->
+</resources>
